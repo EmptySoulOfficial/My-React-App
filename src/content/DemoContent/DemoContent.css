@@ -1,0 +1,6 @@
+.DemoContent {
+    padding: 60px;
+    border-radius: var(--borderradius-default);
+    box-shadow: var(--box-shadow-default);
+    outline: 2px solid var(--color-text);
+}

@@ -1,0 +1,38 @@
+@import './assets/css/themes/theme.css';
+
+.App {
+  text-align: center;
+  background-color: var(--color-dark-ocean-blue);
+}
+
+.App-logo {
+  height: 20vmin;
+  pointer-events: none;
+  padding-bottom: 50px;
+}
+
+.App-header {
+  height: 80px;
+}
+
+.App-Container{
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: var(--color-text-light);
+  min-height: 100vh;
+}
+
+.App-link {
+  color: var(--color-lipstick);
+  text-decoration: underline;
+}
+
+.text-watermark {
+  font-size: 16px;
+  color: var(--color-text)
+}

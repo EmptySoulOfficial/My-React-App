@@ -1,0 +1,9 @@
+{"de":{
+  "test": "TestText Deutsch",
+  "reactboilerplate": "Meine React App"  
+ },
+ "en":{
+  "test": "Testtext English",
+  "reactboilerplate": "My React App" 
+  }
+}
