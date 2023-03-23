@@ -1,6 +1,8 @@
 # My react-App (Boilerplate)
 ###### Last Update: 23.03.2023
 
+![Alt text](./readme_file/Template_Image.jpeg?raw=true "Title Image")
+
 ## Setups
 - npm Version: 6.14.13
 - node version: 14.17.3
