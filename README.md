@@ -19,6 +19,8 @@ npm run build
 - mainfest name and shortname
 - logo svg
 - package version
+- meta data & meta theme content
+- print css
 
 ## Assets
 - Automatic language asset is already imported. Read ELanguage.md for details.
