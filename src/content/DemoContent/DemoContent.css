@@ -1,6 +1,12 @@
-.DemoContent {
+.demoContent {
     padding: 60px;
     border-radius: var(--borderradius-default);
-    box-shadow: var(--box-shadow-default);
+    box-shadow: #00000055 -1px 18px 20px 5px;
     outline: 2px solid var(--color-text);
+    transition: var(--transition-default);
+}
+
+.demoContent:hover {
+    transform: scale(1.1);
+    box-shadow: var(--box-shadow-default);
 }

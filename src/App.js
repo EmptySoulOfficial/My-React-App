@@ -5,10 +5,10 @@ import DemoContent from './content/DemoContent/DemoContent'
 function App() {
 
   return (
-    <div className="App">
-      <header className="App-header">
+    <div className="app">
+      <header className="appHeader">
       </header>
-      <div className="App-Container">
+      <div className="appContainer">
         <DemoContent packageversion={pck.version} />
       </div>
     </div>
