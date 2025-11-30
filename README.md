@@ -1,11 +1,12 @@
 # My react-App (Boilerplate)
-###### Last Update: 23.03.2023
+###### Last Update: 30.11.2025
+###### React Version: 19.2.0
 
-![Alt text](./readme_file/Template_Image.jpeg?raw=true "Title Image")
+![Alt text](./ReadmeFiles/TemplateImage.jpg?raw=true "Title Image")
 
-## Setups
-- npm Version: 6.14.13
-- node version: 14.17.3
+## Setup
+- node version: 24.11.1
+- npm i
 
 ## Run
 npm run start
@@ -13,20 +14,20 @@ npm run start
 ## Build
 npm run build
 
-## Build Checklist
-- Correct favicon and thumb-icon
-- Html Title
-- mainfest name and shortname
-- logo svg
-- package version
-- meta data & meta theme content
-- print css
+## Some hints
 
-## Assets
-- Automatic language asset is already imported. Read ELanguage.md for details.
-- Icon Asset is also imported. (Icon.md for details)
-- all environments are in the env.css
-- Use ".test" class to make your current div visible
+install project in your existing folder
+```
+npx create-react-app .
+```
+create new
 
-## Other Informations
-- App created via "npm create-react-app"
+```
+npx create-react-app <ProjectName>
+```
+
+fix npm script not found
+
+```
+npm install react-scripts --save-dev
+```
